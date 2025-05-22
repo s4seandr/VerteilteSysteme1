@@ -1,0 +1,2 @@
+192.168.2.218 # IP-Adresse des ersten Rechners
+192.168.2.178 # IP-Adresse des zweiten Rechners
